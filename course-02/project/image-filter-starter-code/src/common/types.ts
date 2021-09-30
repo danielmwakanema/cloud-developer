@@ -1,0 +1,5 @@
+export enum HTTP_STATUS {
+  BAD_REQUEST = 400,
+  SERVER_ERROR = 500,
+  UNPROCESSABLE = 422,
+};
